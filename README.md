@@ -45,6 +45,7 @@ _**Associação:**_
    realize uma ação em seu lugar.
   
 _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
+ 
  *Tem Um -> Associação.
  > Ex. Professor 'TEM UM' aluno, 'TEM UMA' turma...
  
