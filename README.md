@@ -21,7 +21,7 @@
  
  >Atributos letras minúsculas, sem espaço, quando for dar um espaço colocar uma letra em maiúsculo para separar as letras e conseguir ler. _Ex. "dataNascimento"_.
 
- _`Exemplo:`_
+ _`Ex. ou Exemplo:`_
 
 ![Classe Aluno](https://user-images.githubusercontent.com/101998147/176944110-e7788b5b-5a4e-4270-a174-b5b59259f731.png)
 > Aluno(Classe) >Tem Atributos(ra, nome, dataNascimento) >Tem Operação/Metodo (realizarAvaliacao())
@@ -46,16 +46,20 @@ _**Associação:**_
   
 _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
  
- * Tem Um -> Associação().
+ * Tem Um -> Associação('nome do Objeto').
  > Ex. Professor 'TEM UM' Aluno, Aluno 'TEM UMA' Turma...
-`CodigoEx. `
+
+> Ex. Teoria(usando a class de Aluno e Turma) -> Dentro da Class de Aluno se cria uma 'Variavel(objeto da class de Turma)  
+> 2°Ex. -> Class Turma Cria um Objeto dentro da class de Aluno.  
+> 3°Ex. -> Objeto da Class turma esta em Aluno. Até porque todo Aluno TEM que ter uma Turma, por isso Cria um ObjetoTurma dentro de Aluno.
+`Ex. Codigo -> Turma turma;`   Turma -> Class Turma / turma -> Objeto ou turma
 
  * É um -> Herança(extends). 
- > Ex. Aluno 'É UMA' Pessoa, Professor 'É UMA' Pessoa...
+ > Ex.  Aluno 'É UMA' Pessoa, Professor 'É UMA' Pessoa...
  
- > ExTeoria -> "Classe Aluno herda de Pessoa"
+ > Ex. Teoria -> "Classe Aluno herda de Pessoa"
  
- `ExCodigo -> public class Aluno 'extends' Pessoa`
+ `Ex. Codigo -> public class Aluno 'extends' Pessoa`
 
 ## Grau de Relacionamento?
 
