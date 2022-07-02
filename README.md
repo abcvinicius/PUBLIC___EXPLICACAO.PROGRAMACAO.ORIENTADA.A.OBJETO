@@ -13,7 +13,7 @@
 
  * Definir seus atributos {Todo Objeto possui um 'Atributo'}
  
- * Definir sua operação(ação/comportamento) {Todo Objeto possui uma ação}  
+ * Definir sua operação(ação/comportamento -> Metodos()) {Todo Objeto possui uma ação}  
  
  > ObsDeCriação: 
  
@@ -24,7 +24,7 @@
  _`Exemplo:`_
 
 ![Classe Aluno](https://user-images.githubusercontent.com/101998147/176944110-e7788b5b-5a4e-4270-a174-b5b59259f731.png)
-> Aluno(Classe) >Tem Atributos(ra, nome, dataNascimento) >Tem Operação (realizarAvaliacao())
+> Aluno(Classe) >Tem Atributos(ra, nome, dataNascimento) >Tem Operação/Metodo (realizarAvaliacao())
 
 
 
