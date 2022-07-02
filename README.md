@@ -15,9 +15,9 @@
  
  * Definir sua operação(ação/comportamento) {Todo Objeto possui uma ação}  
  
- > ObsDeCriação: >Objeto(Classe/Entidade) começa com letra Maiúscula >Atributos letras minúsculas, sem espaço, 
-   quando for dar um espaço colocar uma letra em maiúsculo para separar as letras e conseguir ler. _Ex. 
-   "dataNascimento"_.
+ > ObsDeCriação: 
+ >Objeto(Classe/Entidade) começa com letra Maiúscula 
+ >Atributos letras minúsculas, sem espaço, quando for dar um espaço colocar uma letra em maiúsculo para separar as letras e conseguir ler. _Ex. "dataNascimento"_.
 
  _`Exemplo:`_
 
