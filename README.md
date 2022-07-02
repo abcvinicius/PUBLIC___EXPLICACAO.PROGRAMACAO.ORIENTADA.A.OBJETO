@@ -46,10 +46,10 @@ _**Associação:**_
   
 _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
  
- *Tem Um -> Associação.
+ * Tem Um -> Associação.
  > Ex. Professor 'TEM UM' aluno, 'TEM UMA' turma...
  
- *É um -> Herança. 
+ * É um -> Herança. 
  > Ex. Aluno 'É UMA' pessoa, Professor 'É UMA' pessoa...
 
 ## Grau de Relacionamento?
