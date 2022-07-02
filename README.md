@@ -46,16 +46,16 @@ _**Associação:**_
   
 _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
  
- * Tem Um -> Associação('nome do Objeto').
- > Ex. Professor 'TEM UM' Aluno, Aluno 'TEM UMA' Turma...
+ * _**Tem Um**_ -> Associação('nome do Objeto').
+ > Ex. -> Professor 'TEM UM' Aluno, Aluno 'TEM UMA' Turma...
 
-> Ex. Teoria(usando a class de Aluno e Turma) -> Dentro da Class de Aluno se cria uma 'Variavel(objeto da class de Turma)  
+> Ex. -> Teoria(usando a class de Aluno e Turma) -> Dentro da Class de Aluno se cria uma 'Variavel(objeto da class de Turma)  
 > 2°Ex. -> Class Turma Cria um Objeto dentro da class de Aluno.  
 > 3°Ex. -> Objeto da Class turma esta em Aluno. Até porque todo Aluno TEM que ter uma Turma, por isso Cria um ObjetoTurma dentro de Aluno.
 `Ex. Codigo -> Turma turma;`   Turma -> Class Turma / turma -> Objeto ou turma
 
- * É um -> Herança(extends). 
- > Ex.  Aluno 'É UMA' Pessoa, Professor 'É UMA' Pessoa...
+ * _**É um**_ -> Herança(extends). 
+ > Ex. -> Aluno 'É UMA' Pessoa, Professor 'É UMA' Pessoa...
  
  > Ex. Teoria -> "Classe Aluno herda de Pessoa"
  
