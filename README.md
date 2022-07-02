@@ -39,10 +39,17 @@
 
 _**Herança:**_
  * É a permissão que classes tem de compartilhar atributos e métodos, através de "heranças".
-
+ * 
 _**Associação:**_
  * Associação define um relacionamento entre duas classes que permite que um objeto faça com que outro objeto 
    realize uma ação em seu lugar.
+  
+_**Como Saber se o Relacionamento é uma Herança ou Associação?**_
+ *Tem Um -> Associação.
+ > Ex. Professor 'TEM UM' aluno, 'TEM UMA' turma...
+ 
+ *É um -> Herança. 
+ > Ex. Aluno 'É UMA' pessoa, Professor 'É UMA' pessoa...
 
 ## Grau de Relacionamento?
 
