@@ -58,7 +58,7 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 > 2°Ex. -> Teoria(Usando a class de Turma para Aluno) -> Dentro da Class de Turma se cria um _ArryList_ de Alunos
 > 2.1Ex. -> Toda turma tem Varios aluno ent se cria um 'Lista + Nome do Objeto' da ClassAluno dentro da Class de Turma
 
-`Ex. Codigo -> ArryList<Aluno> alunos;` ArryList<Aluno> -> ClassAluno / alunos -> Objeto.
+`Ex. Codigo -> ArryList<Aluno> alunos;` ArryList<Aluno> -> Class Aluno / alunos -> Objeto.
 
 
  * _**É um**_ -> Herança(extends). 
