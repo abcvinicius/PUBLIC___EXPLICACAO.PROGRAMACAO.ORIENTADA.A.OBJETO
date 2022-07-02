@@ -52,7 +52,9 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 
  * É um -> Herança(extends). 
  > Ex. Aluno 'É UMA' Pessoa, Professor 'É UMA' Pessoa...
+ 
  > ExTeoria -> "Classe Aluno herda de Pessoa"
+ 
  `ExCodigo -> public class Aluno 'extends' Pessoa`
 
 ## Grau de Relacionamento?
