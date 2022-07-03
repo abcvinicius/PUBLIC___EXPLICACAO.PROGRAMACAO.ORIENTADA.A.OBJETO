@@ -6,6 +6,7 @@
    objetos, atributos, códigos, métodos, entre outros. Na pratica é nada mais que a funcionalidade de uma Entidades.
    
   > Exemplo. Teoria -> Entidade Disciplina tem Matematica, Portugues...
+  
   > (As Materias cadastradas que são os Objetos das Entidades, dão um funcionalidade para as entidades).
 
 
