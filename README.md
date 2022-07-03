@@ -3,8 +3,9 @@
 ## _Oque é?_
  
  * Uma Aproximação entre o mundo real e o mundo virtual, através da criação e interação entre 
-   objetos, atributos, códigos, métodos, entre outros. Na pratica é nada mais que uma Entidade.
-
+   objetos, atributos, códigos, métodos, entre outros. Na pratica é nada mais que a funcionalidade de uma Entidade.
+   
+   `Exemplo. Teoria -> Entidade Disciplina tem Matematica, Portugues...` (As Materias cadastradas que são os Objetos das Entidades, dão um funcionalidade para as entidades)
 ***
 
 ## _Como Criar um Objeto?_
