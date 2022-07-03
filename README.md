@@ -104,3 +104,11 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
   (inúmeras vezes).
 
 * Cardinalidade Mínima: Número mínimo de vezes que uma entidade A pode ocorrer em B. Pode assumir o valor de 0 ou 1
+
+
+
+---
+
+
+
+# Criação de Objetos e Encapsulamento
