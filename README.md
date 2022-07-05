@@ -1,6 +1,6 @@
 # **_Programação orientada a objetos_**
 
-## _Oque é?_
+## _O que é?_
  
  * Uma Aproximação entre o mundo real e o mundo virtual, através da criação e interação entre 
    objetos, atributos, códigos, métodos, entre outros. Na pratica é nada mais que a funcionalidade de uma Entidades.
@@ -112,3 +112,7 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 
 
 # Criação de Objetos e Encapsulamento
+ 
+__**O que é um Objeto & O que é um Encapsulamento?**__
+
+* O objeto é Basicamente a Função que uma Class recebe. Um exemplo de Objeto seria em uma Class disciplina tem (matematica, portugues, geografia...), essas disciplinas que são a função da Class Disciplina, então elas que são os Objetos.
