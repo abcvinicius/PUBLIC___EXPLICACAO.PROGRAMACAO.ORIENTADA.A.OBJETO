@@ -155,6 +155,6 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
  > OBS: Toda vez que você Settar algo você deve saber que la dentro de Getters e Setter que você criou vai chegar a requisição do Objeto que você
    criou/Setou, então os atributos vão passar enviando eles mesmo e guardando eles no atributo nome "This". 
  
- **O que é This** 
+ _**O que é This?**_
  * Ele é uma referencia do Objeto a ele mesmo. Ele vai salvar a requisição nele mesmo.
  * Quando a gente se referir a This, ele está dizendo que ele é **Referido AO Objeto**.
