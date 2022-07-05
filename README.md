@@ -125,7 +125,7 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 
  _**O que é um Encapsulamento?**_
 
- * Posso descrever o Encapsulamento como privrar, proteger e incluir algo dentro de uma "Capsula". Ele defiine o Tipo do Atributo, no caso refere-se á um atributo Private, Protect, Public e Pakcage.
+ * Posso descrever o Encapsulamento como privrar, proteger e incluir algo dentro de uma "Capsula". Ele defiine o Tipo do Atributo, no caso refere-se á um atributo Private, Protect, Public e Pakcage. Além disso o Encapsulamento está envolvido como Metodos Getters e Setters.
  
  _**Tipos de Encapsulamento?**_
  
@@ -142,3 +142,12 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
  
  _**4° `Package`**_
  * Pode ser acessado pelas Class de dentro do mesmo Pack(Pacote).
+
+ _**Metodos Getters & Setters**_
+ * Esses Metodos servem para que você tenha acesso aos Dados Private de uma Class mas, de forma que não seja direta(Sem Segurança).
+ 
+ _**Metodo Get**_
+ * Ele está relacionado a puxar/pegar algum valor.
+ 
+ _**Metodo Set**_
+ * Ele está relacionado a Modificar/Setar algum valor.
