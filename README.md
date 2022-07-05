@@ -146,8 +146,8 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
  _**Metodos Getters & Setters**_
  * Esses Metodos servem para que você tenha acesso aos Dados Private de uma Class mas, de forma que não seja direta(Sem Segurança).
  
- _**Metodo Get**_
+ _Metodo Get_
  * Ele está relacionado a puxar/pegar algum valor.
  
- _**Metodo Set**_
+ _Metodo Set_
  * Ele está relacionado a Modificar/Setar algum valor.
