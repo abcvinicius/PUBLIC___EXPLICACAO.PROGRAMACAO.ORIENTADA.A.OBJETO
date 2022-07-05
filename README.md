@@ -111,10 +111,16 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 
 
 
-# Criação de Objetos e Encapsulamento
+# __Criação de Objetos e Encapsulamento__
  
-## O que é um Objeto & O que é um Encapsulamento? ##
+## __Objeto__
 
- __**O que é um Objeto**__
+ __**O que é um Objeto?**__
  
-* O objeto é Basicamente a Função que uma Class recebe. Um exemplo claro de Objeto seria em uma __ClassDisciplina__ tem 2 Obejtos (matematica e portugues) essas disciplinas que são a função da __ClassDisciplina__, então, elas que são os Objetos, elas que dão uma "Função" para a Class.
+* O Objeto é basicamente a Função que uma Class recebe. Um exemplo claro de Objeto seria em uma __ClassDisciplina__ tem 2 Obejtos (matematica e português) essas disciplinas(referindo à Matematica e Português) que são a função da __ClassDisciplina__, então, elas que são os Objetos, elas que dão uma "Função" para a Class.
+
+ 
+ 
+ ## __Encapsulamento__
+ 
+ __**O que é um Encapsulamento?**__
