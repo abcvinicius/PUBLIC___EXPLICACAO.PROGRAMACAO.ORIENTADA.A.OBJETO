@@ -41,7 +41,7 @@
 
 
 
-# Associação e herança
+# _Associação e herança_
 
 ## _O que é Herança & Associação?_
 
@@ -77,7 +77,7 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 
  ---
  
-# Graus de Relacionamentos?
+# _Graus de Relacionamentos?_
 
  * Conhecido também por Cardinalidade, o Grau de Relacionamento é o 'relacionamento' entre duas Entidades/Tabelas, 
    onde ele define o "Grau do Relacionamento" entre as Entidades.
@@ -111,16 +111,34 @@ _**Como Saber se o Relacionamento é uma Herança ou Associação?**_
 
 
 
-# __Criação de Objetos e Encapsulamento__
+# _Criação de Objetos e Encapsulamento_
  
-## __Objeto__
+## _Objeto_
 
- __**O que é um Objeto?**__
+ _**O que é um Objeto?**_
  
 * O Objeto é basicamente a Função que uma Class recebe. Um exemplo claro de Objeto seria em uma __ClassDisciplina__ tem 2 Obejtos (matematica e português) essas disciplinas(referindo à Matematica e Português) que são a função da __ClassDisciplina__, então, elas que são os Objetos, elas que dão uma "Função" para a Class.
 
  
  
- ## __Encapsulamento__
+ ## _Encapsulamento_
+
+ _**O que é um Encapsulamento?**_
+
+ * Posso descrever o Encapsulamento como privrar, proteger e incluir algo dentro de uma "Capsula". Ele defiine o Tipo do Atributo, no caso refere-se á um atributo Private, Protect, Public e Pakcage.
  
- __**O que é um Encapsulamento?**__
+ _**Tipos de Encapsulamento?**_
+ 
+ * _**Para entender mais sobre o Encapsulamento a gente deve compreender seus Tipos. São Eles:**_
+ 
+ _**1° `Public`**_
+ * Todas as Classes conseguem acessa-lo, não importa se está fora ou dentro da mesma pasta.
+ 
+ _**2° `Private`**_
+ * Somente a propria Class pode acessar.
+ 
+ _**3° `Protected`**_
+ * Somente a propria Class e SubClass acessa diretamente.
+ 
+ _**4° `Package`**_
+ * Pode ser acessado pelas Class de dentro do mesmo Pack(Pacote).
